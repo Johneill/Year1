@@ -1,8 +1,8 @@
 //
 //  lab4_task3.cpp
-//  
+//  This was for nested loops
 //
-//  Created by Lucy Byrne on 08/02/2017.
+//  
 //
 //
 
