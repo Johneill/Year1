@@ -2,7 +2,6 @@
 //  lab6_task3.cpp
 //  
 //
-//  Created by Brian Neville on 22/02/2017.
 //
 //
 
