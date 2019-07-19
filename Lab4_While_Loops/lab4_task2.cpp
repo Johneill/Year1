@@ -2,7 +2,7 @@
 //  lab4_task2.cpp
 //  
 //
-//  Created by Lucy Byrne on 08/02/2017.
+
 //
 //
 
